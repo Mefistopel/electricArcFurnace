@@ -1,0 +1,16 @@
+.btn-start {
+    background-color: #778899;
+    color: white;
+}
+.btn-start:hover,
+.btn-start:focus {
+      background-color: #b0c4de;
+      color: white;
+}
+.form-control {
+    width:auto;
+    display:inline-block;
+}
+output{
+  display: inline;
+}
